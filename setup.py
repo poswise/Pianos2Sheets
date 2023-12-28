@@ -29,7 +29,7 @@ setuptools.setup(
     description='Multi-Task Multitrack Music Transcription',
     author='Google Inc.',
     author_email='no-reply@google.com',
-    url='http://github.com/magenta/mt3',
+    url='https://github.com/poswise/Pianos2Sheets',
     license='Apache 2.0',
     packages=setuptools.find_packages(),
     package_data={
